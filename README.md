@@ -2,7 +2,7 @@ Buddy Program - Programa de Mentoria Desenvolvido para Qintess
 
 É com grande satisfação que trago mais um novo projeto desenvolvido. 
 
-O mais novo Programa de Mentoria para Novos Colaboradores, desenvolvido em Power Apps. Este programa tem como objetivo fornecer um acompanhamento personalizado durante seus primeiros três meses na empresa, para ajudá-los a se ajustarem à cultura e aos processos da organização e para impulsionar suas carreiras.
+O mais novo Programa de Mentoria para Novos Colaboradores Jr, desenvolvido em Power Apps. Este programa tem como objetivo fornecer um acompanhamento personalizado durante seus primeiros três meses na empresa, para ajudá-los a se ajustarem à cultura e aos processos da organização e para impulsionar suas carreiras.
 
 A mentoria é uma ótima maneira de receber orientação de profissionais experientes em nossa empresa, que podem compartilhar suas perspectivas e experiências sobre o trabalho em nossa organização. Eles podem oferecer dicas e conselhos sobre como navegar pelos desafios e oportunidades que surgem durante a jornada do trabalho.
 
